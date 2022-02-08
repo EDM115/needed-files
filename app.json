@@ -21,13 +21,8 @@
       "required": true
     }
   },
-  {
   "formation"​: {
-    "web"​: {
-      "quantity": 1,
-      "size": "free"
-    }
-  }
+    "worker"​: {"quantity": 1, "size": "free"}
   },
   "stack": "heroku-20",
   "addons": [
