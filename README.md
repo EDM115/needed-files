@@ -1,6 +1,9 @@
 # needed-files
 
 
+![EDM115's github activity graph](https://activity-graph.herokuapp.com/graph?username=EDM115&theme=dracula)
+
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EDM115&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
